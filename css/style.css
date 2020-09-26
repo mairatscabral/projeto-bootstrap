@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.navbar{
+    background: #b3e6ff;
+}
+.margin{
+    padding-top: 10px;
+    padding-bottom: 50px; 
+    
+}
+.quem-somos{
+    background-color:#ccffeb; 
+}
+
+.parceiros{
+    background-color: #b3ffe0;
+}
+
+.servicos{
+    padding: 15px;
+    background-color:  #cceeff;
+}
+
+.servicos img{
+    padding: 10px;
+}
+
+.bg-footer{
+    padding: 10px;
+    align-items: center;
+    color:white;
+    background-color: #33bbff;
+
+}
